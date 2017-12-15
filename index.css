@@ -4,13 +4,12 @@ body {
   background-size: cover;
   background-position: top;
   background-repeat: no-repeat;
-  color: black;
+  color: red;
   font-size: 20px;
   font-family: helvetica;
 }
 h1 {
   padding-top: 20px
-    color: black;
 }
 #main {
   padding-left: 1000px;
@@ -47,3 +46,5 @@ li a:hover {
 .peter {
   float: right;
 }
+h1 {
+  text-color: black;
