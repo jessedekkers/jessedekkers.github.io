@@ -10,6 +10,7 @@ body {
 }
 h1 {
   padding-top: 20px
+    color: black;
 }
 #main {
   padding-left: 1000px;
